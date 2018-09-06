@@ -1,0 +1,62 @@
+Names:-Mishal fatima
+
+Roll No :-27
+
+Quiz 1.
+
+
+
+
+How to launch swi-prolog on command line?
+
+Answer:- %sudo apt-add-respository ppa:swi prolog/stable
+              %sudo apt -get update
+         %sudo apt - get install swi-prolog
+
+What is the extension of a prolog Knowledge Base?
+Answer:-
+
+The extention of prolog knowladge base is (.pl)
+          i.e  sa.pl.
+
+How to load a knowledge base in prolog?
+
+Answer:- We type the name of knowladge base like
+           kb.pl in terminal with location
+
+How to exit a prolog session?
+
+Answer:- halt/0.
+
+How to get help on a topic from within prolog?
+Answer:-
+
+'h'gets us the help  action .
+
+
+What is an atom?
+answer:-An atom is general purpose name with no inherent meaning.
+
+What is a term?
+Answer:-true when Term is a term with functor Name/Arity.
+
+What is functor?
+
+Answer:-the rules for prolog functor names are the same as for prolog atom. 
+
+What are complex terms?
+
+Answer:-constants,numbers,and variables are the building blocks.
+
+What is predicate?
+
+Answer:-the predicate name is a prolog atom.
+
+What is arity of predicate?
+
+Answer:-the arity of a functor is the number of arguments it takes.
+
+What is unification?
+
+
+Answer:-the way in which prolog matches two terms is vcaled unificcation.
